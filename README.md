@@ -2,7 +2,7 @@
 
 Boilerplate code for a very simple frontend that uses [Airtable](https://airtable.com/) as a CMS. Built using `vue-cli`. 
 
-This is a port of (https://github.com/Kallirroi/airtable_as_cms), ported to Vue.
+This is a port of https://github.com/Kallirroi/airtable_as_cms, ported to Vue.
 
 ## Getting started with development
 
