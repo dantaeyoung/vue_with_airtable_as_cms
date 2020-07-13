@@ -1,12 +1,12 @@
 <template>
   <div class="hello">
     <div class="headers">
-      <header v-for="field in records[0].fields" :key="field">
+      <header v-for="field in Object.keys(records[0].fields)" :key="field">
         {{ field }}
       </header>
     </div>
     <div class="entries">
-      <div class="entry" v-for="record in records" v-bind:key="record">
+      <div class="entry" v-for="record in records" v-bind:key="record.id">
         <div
           class="field left"
           v-for="field in Object.keys(record.fields)"
