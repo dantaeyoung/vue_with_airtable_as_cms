@@ -20,7 +20,7 @@ Vue styling can be scoped to each component, so AirtableDisplayExample.vue conta
 
 ## How to deploy
 
-Documentation TBD; to use [Vercel](https://vercel.com/) see [this documentation](https://vercel.com/guides/deploying-vuejs-to-vercel). 
+To use [Vercel](https://vercel.com/) see [this documentation](https://vercel.com/guides/deploying-vuejs-to-vercel). 
 
 Don't forget to set up the `env` variables (both services offer a way to do that on their platform GUI).
 
