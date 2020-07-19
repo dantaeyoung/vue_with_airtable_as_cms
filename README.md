@@ -24,4 +24,3 @@ To use [Vercel](https://vercel.com/) see [this documentation](https://vercel.com
 
 Don't forget to set up the `env` variables (both services offer a way to do that on their platform GUI).
 
-
