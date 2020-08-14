@@ -4,6 +4,8 @@ Boilerplate code for a very simple frontend that uses [Airtable](https://airtabl
 
 This is a port/clone of https://github.com/Kallirroi/airtable_as_cms, ported to Vue.
 
+For something more complex with a router, views, and a store system with `Vuex`, see https://github.com/dantaeyoung/vue_vuex_router_with_airtable_as_cms.
+
 ## Getting started with development
 
 In order to authenticate to Airtable API, you have to create a `.env` file in the root directory. Copy `.env.example` to `.env` and fill in the parameters.
